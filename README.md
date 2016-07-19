@@ -1,3 +1,3 @@
 # Hello-World
 Getting Started...
-My name is Ruth and I'm learning to code! Have been interested in a while and am excited for what technology can do to improve healthcare.
+My name is Ruth and I'm learning to code! Have been interested in this a while and am excited for what technology can do to improve healthcare.
